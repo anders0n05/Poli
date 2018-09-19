@@ -75,4 +75,5 @@ using namespace std;
         cout<<l.elementos[i].inteiroexp <<"-" <<l.elementos[i].expoente<<"-" <<l.elementos[i].inteiro<<"\n";
     }
     }
+    //falta fazer operacoes com os polinomios
 #endif // LISTA_ESTATICA_H_INCLUDED
